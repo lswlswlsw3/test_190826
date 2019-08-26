@@ -1,0 +1,7 @@
+# 서버포트
+server:
+  port: 8821
+
+# 테스트 메시지
+test:
+  message: apple prod
